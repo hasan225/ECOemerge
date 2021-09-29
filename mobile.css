@@ -1,0 +1,67 @@
+nav#navbar {
+    padding: 35px 30px;
+}
+nav#navbar {
+    padding: 35px 25px;
+}
+nav#navbar img {
+    width: 130px;
+}
+.searchBar {
+    right: 25px;
+    top: 30px;
+}
+i.fas.fa-search {
+    margin: 4px 0 0 0;
+    font-size: 15px;
+}
+input.search {
+    height: 40px;
+    width: 160px;
+}
+div#hero-section {
+    margin: 100px 30px 40px 30px;
+}
+.hero-image img {
+    max-width: 420px;
+}
+.hero-text h2 {
+    font-size: 50px;
+}
+h2.summer-text {
+    letter-spacing: 19px;
+    margin-bottom: -24px;
+}
+h2.summer-text {
+    letter-spacing: 19px;
+    margin-bottom: -29px;
+}
+.hero-text h2 {
+    font-size: 50px;
+}
+.hero-text h2:nth-child(2) {
+    margin-bottom: 20px;
+}
+.collection-contents {
+    max-width: 550px;
+}
+.au-left h2 {
+    font-size: 40px;
+}
+.au-left h4 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.au-left p {
+    font-size: 15px;
+}
+section#newsletter h3 {
+    font-size: 19px;
+}
+.submit-email input {
+    width: 350px;
+        padding-right: 125px;
+}
+a.add-to-cart {
+    font-size: 20px;
+}

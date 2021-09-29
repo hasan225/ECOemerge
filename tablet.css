@@ -1,0 +1,18 @@
+section#about-us {
+    flex-direction: column;
+}
+.au-left {
+    margin-bottom: 60px;
+}
+.collection-contents {
+    max-width: 250px;
+}
+section#collection {
+    padding: 60px 50px 40px 80px;
+}
+.collection-contents-wrap {
+    justify-content: center;
+}
+a.add-to-cart {
+    font-size: 12px;
+}
